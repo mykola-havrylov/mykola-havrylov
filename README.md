@@ -1,16 +1,46 @@
-## Hi there 👋
+### Hi, I'm Mykola 👋
 
-<!--
-**mykola-havrylov/mykola-havrylov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Frontend & Shopify Developer based in Poland / Ukraine.  
+I focus on building scalable, high-performance e-commerce solutions using **Shopify (Liquid & Hydrogen)** and modern frontend technologies.
 
-Here are some ideas to get you started:
+Most of my work is production-oriented: performance, maintainability, clean architecture, and close collaboration with designers and product teams.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### What I work with
+
+**Frontend**
+- JavaScript (ES6+), TypeScript
+- React, Next.js
+
+**Shopify**
+- Custom theme development (Liquid)
+- Headless Commerce with Hydrogen
+- Storefront API, Shopify CLI
+
+**UI & Performance**
+- GSAP, SCSS
+- Core Web Vitals optimization
+
+**Tools**
+- Git, Git-flow
+- Vite, Docker
+- Figma
+- AI-assisted development tools
+
+---
+
+### Current focus
+
+- Scalable Shopify and Headless architectures
+- Performance optimization and Core Web Vitals
+- Modern React and Next.js patterns (App Router, SSR)
+
+> Most of my commercial projects are under NDA and located in private repositories.
+
+---
+
+### Contact
+
+- LinkedIn: https://www.linkedin.com/in/mykola-havrylov
+- Email: n.gavrilov83@gmail.com
