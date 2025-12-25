@@ -19,7 +19,7 @@ Most of my work is production-oriented: performance, maintainability, clean arch
 - Storefront API, Shopify CLI
 
 **UI & Performance**
-- GSAP, SCSS
+- GSAP, SCSS, Tailwind CSS
 - Core Web Vitals optimization
 
 **Tools**
