@@ -1,6 +1,6 @@
 ### Hi, I'm Mykola 👋
 
-Senior Frontend & Shopify Developer based in Poland / Ukraine.  
+Shopify Developer based in Poland / Ukraine.  
 I focus on building scalable, high-performance e-commerce solutions using **Shopify (Liquid & Hydrogen)** and modern frontend technologies.
 
 Most of my work is production-oriented: performance, maintainability, clean architecture, and close collaboration with designers and product teams.
