@@ -1,46 +1,53 @@
-### Hi, I'm Mykola 👋
+## Hi, I'm Mykola
 
-Shopify Developer based in Poland / Ukraine.  
-I focus on building scalable, high-performance e-commerce solutions using **Shopify (Liquid & Hydrogen)** and modern frontend technologies.
+Shopify developer based in Wrocław, Poland.
+Four years on Shopify, eight in web development.
 
-Most of my work is production-oriented: performance, maintainability, clean architecture, and close collaboration with designers and product teams.
+I build storefronts from a Figma design to a live store: custom Liquid themes on Online Store 2.0, sections, product data, performance. Half of my work is new builds, half is rebuilding legacy stores on modern architecture.
 
 ---
 
 ### What I work with
 
-**Frontend**
-- JavaScript (ES6+), TypeScript
-- React, Next.js
-
 **Shopify**
-- Custom theme development (Liquid)
-- Headless Commerce with Hydrogen
-- Storefront API, Shopify CLI
+- Custom theme development: Liquid, Online Store 2.0, Dawn
+- Sections Everywhere, Metafields, Metaobjects
+- Admin GraphQL API, Storefront API
+- Shopify CLI, Theme Check, Shopify Flow
+- Shopify Plus, multi-language and multi-currency storefronts
+- Shopify Functions, Checkout Extensibility
 
-**UI & Performance**
-- GSAP, SCSS, Tailwind CSS
-- Core Web Vitals optimization
+**Frontend**
+- JavaScript (ES6+), Web Components, HTML5
+- SCSS, Tailwind CSS, GSAP
+
+**Performance**
+- Core Web Vitals (LCP, CLS, INP), Lighthouse
+- Critical CSS, code splitting, responsive images
 
 **Tools**
-- Git, Git-flow
-- Vite, Docker
-- Figma
-- AI-assisted development tools
+- Git, Git-flow, GitHub CI/CD
+- Vite, Webpack, Figma
+
+**Working knowledge**
+- React, TypeScript: refactoring and debugging in existing codebases
+- Hydrogen: familiar, no commercial projects yet
 
 ---
 
-### Current focus
+### Recent work
 
-- Scalable Shopify and Headless architectures
-- Performance optimization and Core Web Vitals
-- Modern React and Next.js patterns (App Router, SSR)
+- Legacy theme migrated to Online Store 2.0, with a full redesign and a cleanup of the legacy code
+- Git flow set up on a store that was edited live: branches, versioning, code review
+- Data migrated out of a paid app into native metafields and metaobjects, 12,000 records
+- Images updated on 1,700+ products in one scripted run through the Admin API
+- Missing Google Merchant Center attributes filled in across the catalogue with batch updates through the Admin API
 
-> Most of my commercial projects are under NDA and located in private repositories.
+> Most commercial work is under NDA and lives in private repositories.
 
 ---
 
 ### Contact
 
-- LinkedIn: https://www.linkedin.com/in/mykola-havrylov
-- Email: n.gavrilov83@gmail.com
+- LinkedIn: [linkedin.com/in/mykola-havrylov](https://www.linkedin.com/in/mykola-havrylov)
+- Email: [n.gavrilov83@gmail.com](mailto:n.gavrilov83@gmail.com)
