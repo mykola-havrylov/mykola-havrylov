@@ -54,4 +54,3 @@ Live demos (development stores are always password protected; the password only 
 ### Contact
 
 - LinkedIn: [linkedin.com/in/mykola-havrylov](https://www.linkedin.com/in/mykola-havrylov)
-- Email: [n.gavrilov83@gmail.com](mailto:n.gavrilov83@gmail.com)
